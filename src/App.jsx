@@ -1,6 +1,6 @@
 
 import './App.css';
-// import Navbar from './compoents/navbar/Navbar';
+import Navbar from './components/navbar/Navbar';
 import Test from "./Test";
 
 function App() {
@@ -18,7 +18,7 @@ function App() {
      <section>Portfolio3</section>
      <section>Contact</section> */}
      <Test />
-   
+     <Test />
     </div>
   );
 }
